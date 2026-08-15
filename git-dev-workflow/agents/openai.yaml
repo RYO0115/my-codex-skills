@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Development Workflow"
+  short_description: "Git-Flow・worktree・CI・PR運用を安全な手順で実行する"
+  default_prompt: "Use $git-dev-workflow to prepare this change in a safe Git workflow."

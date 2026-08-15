@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Planning"
+  short_description: "市場調査を根拠に実行可能な事業計画とGTM戦略を作成する"
+  default_prompt: "Use $business-planning to create an evidence-backed business plan."

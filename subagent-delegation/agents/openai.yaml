@@ -1,0 +1,4 @@
+interface:
+  display_name: "Subagent Delegation"
+  short_description: "独立した作業をCodexサブエージェントへ安全かつ効率的に委譲する"
+  default_prompt: "Use $subagent-delegation to delegate suitable parts of this task efficiently."

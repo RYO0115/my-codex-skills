@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Research"
+  short_description: "市場規模・競合・顧客を一次情報中心に体系的に調査して報告する"
+  default_prompt: "Use $market-research to produce an evidence-backed market report."

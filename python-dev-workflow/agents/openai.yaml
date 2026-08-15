@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Development Workflow"
+  short_description: "Python実装を設計規約・テスト・静的解析・文書同期に沿って進める"
+  default_prompt: "Use $python-dev-workflow to implement and verify this Python change."

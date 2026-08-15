@@ -1,0 +1,4 @@
+interface:
+  display_name: "Math Explanation"
+  short_description: "数学概念を明快な文章・数式・可視化・ノートブックで解説する"
+  default_prompt: "Use $math-explanation to explain this concept with a suitable artifact."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Triage"
+  short_description: "着手前に作業難易度を判定し探索・計画・委譲の量を適正化する"
+  default_prompt: "Use $task-triage to size this task and choose an efficient execution mode."

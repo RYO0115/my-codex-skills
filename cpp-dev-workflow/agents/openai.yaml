@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ Development Workflow"
+  short_description: "C++の設計・実装・テスト・静的解析を一貫した規約で進める"
+  default_prompt: "Use $cpp-dev-workflow to implement and verify this C++ change."

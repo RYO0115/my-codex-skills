@@ -1,4 +1,4 @@
 interface:
   display_name: "Subagent Delegation"
-  short_description: "独立した作業をCodexサブエージェントへ安全かつ効率的に委譲する"
-  default_prompt: "Use $subagent-delegation to delegate suitable parts of this task efficiently."
+  short_description: "CodexとClaudeの適切なモデルへ独立作業を安全・低コストに委譲する"
+  default_prompt: "Use $subagent-delegation to route independent work across Codex and Claude Opus, Sonnet, or Haiku with an efficient review plan."

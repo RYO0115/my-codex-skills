@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Report Artifact"
+  short_description: "検証済みの自己完結HTML報告書を作成する"
+  default_prompt: "Use $html-report-artifact to create a browser-verified HTML report."

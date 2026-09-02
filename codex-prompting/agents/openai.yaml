@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Prompting"
+  short_description: "Codex向けpromptの精度とtoken効率を改善する"
+  default_prompt: "Use $codex-prompting to optimize these Codex instructions without weakening their requirements."

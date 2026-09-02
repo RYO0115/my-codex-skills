@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Task Template"
+  short_description: "Codex用の明確なtask.yamlを作成する"
+  default_prompt: "Use $codex-task-template to create a scoped, verifiable task.yaml for this work."
